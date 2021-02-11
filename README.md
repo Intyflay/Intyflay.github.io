@@ -1,2 +1,2 @@
-# Intyflay.github.io
-Portfolio and things, bon appétit 🍽️.
+# https://Intyflay.github.io
+Portfolio of web based projects, bon appétit 🍽️.
